@@ -2,16 +2,34 @@
 
 This workspace containts Patika Java101 Course Homeworks.
 
-## HW1 - Grade Avarage/Status Calculator (If-Else Not Used)
+## Basic Concepts and Variables
 
-## HW2 - Tax Calculator
+In this unit, no conditional statements or loops have been utilized.
 
-## HW3 - Taximeter Calculator
+### HW1 - Grade Avarage/Status Calculator
 
-## HW4 - Right Triangle Hypotenuse Calculator
+[Grade Avarage/Status Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw1.java)
 
-## HW5 - Circle Area and Perimeter Calculator
+### HW2 - Tax Calculator
 
-## HW6 - Body Mass Index (BMI) Calculator
+[Tax Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw2.java)
 
-## HW7 - Grocery Cash Register Program
+### HW3 - Triangle Perimeter and Area Calculator by Side Lenghts
+
+[Triangle Perimeter and Area Calculator by Side Lenghts](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw3.java)
+
+### HW4 - Taximeter Calculator
+
+[Taximeter Calculator]((https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw4.java))
+
+### HW5 - Circular Sector Area Calculator
+
+[Circular Sector Area Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw5.java)
+
+### HW6 - Body Mass Index (BMI) Calculator
+
+[BMI Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw6.java)
+
+### HW7 - Grocery Cash Register Program
+
+[Grocery Cash Register](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw7.java)
