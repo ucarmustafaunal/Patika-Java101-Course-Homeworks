@@ -1,18 +1,17 @@
-## Getting Started
+# Patika Java101 Course Homeworks
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This workspace containts Patika Java101 Course Homeworks.
 
-## Folder Structure
+## HW1 - Grade Avarage/Status Calculator (If-Else Not Used)
 
-The workspace contains two folders by default, where:
+## HW2 - Tax Calculator
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## HW3 - Taximeter Calculator
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## HW4 - Right Triangle Hypotenuse Calculator
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## HW5 - Circle Area and Perimeter Calculator
 
-## Dependency Management
+## HW6 - Body Mass Index (BMI) Calculator
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## HW7 - Grocery Cash Register Program
