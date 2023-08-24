@@ -1,3 +1,4 @@
+package BasicConceptsandVariables;
 import java.util.Scanner;
 
 public class hw2 {

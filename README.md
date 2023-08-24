@@ -20,7 +20,7 @@ In this unit, no conditional statements or loops have been utilized.
 
 ### HW4 - Taximeter Calculator
 
-[Taximeter Calculator]((https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw4.java))
+[Taximeter Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/hw4.java)
 
 ### HW5 - Circular Sector Area Calculator
 
