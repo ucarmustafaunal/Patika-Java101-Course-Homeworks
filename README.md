@@ -78,9 +78,9 @@ In this unit, no conditional statements or loops have been utilized.
 
 [Average of Numbers Divisible by 3 and 4](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw1.java)
 
-### HW 2 - Sum of Odd Numbers
+### HW 2 - Sum of Even Numbers
 
-[](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw2.java)
+[Sum of Even Numbers](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw2.java)
 
 ### HW 3 - Powers of 4 and 5 up to the Entered Number
 
@@ -98,9 +98,9 @@ In this unit, no conditional statements or loops have been utilized.
 
 [Sum of Digits](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw6.java)
 
-### HW 7 - Harmonic Series
+### HW 7 - Harmonic Serie
 
-[Harmonic Series](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw7.java)
+[Harmonic Serie](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw7.java)
 
 ### HW 8 - Making Diamond with Stars
 
@@ -133,3 +133,22 @@ In this unit, no conditional statements or loops have been utilized.
 ## HW 15 - Fibonacci Serie
 
 [Fibonacci Serie](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw15.java)
+
+## Methods
+
+### HW 1 -
+
+
+### HW 2 -
+
+
+### HW 3 -
+
+
+### HW 4 -
+
+
+### HW 5 -
+
+
+### HW 6 -
