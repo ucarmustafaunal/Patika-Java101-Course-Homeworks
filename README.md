@@ -136,19 +136,40 @@ In this unit, no conditional statements or loops have been utilized.
 
 ## Methods
 
-### HW 1 -
+### HW 1 - Palindrome
 
+[Palindrome](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Methods/hw1.java)
 
-### HW 2 -
+### HW 2 - Recursive Fibonacci Serie
 
+[Recursive Fibonacci Serie](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Methods/hw2.java)
 
-### HW 3 -
+### HW 3 - Advanced Calculator
 
+[Advanced Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Methods/hw3.java)
 
-### HW 4 -
+### HW 4 - Recursive Exponent Calculation
 
+[Recursive Exponent Calculation](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Methods/hw4.java)
 
-### HW 5 -
+### HW 5 - Recursive Prime Numbers
 
+[Recursive Prime Numbers](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Methods/hw5.java)
 
-### HW 6 -
+### HW 6 - Patern Based Method
+
+[Patern Based Method](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Methods/hw6.java)
+
+## Classes
+
+### HW 1 - Student Information System
+
+[Student Information System](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Classes/hw1.java)
+
+### HW 2 - Boxing Game
+
+[Boxing Game](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Classes/hw2.java)
+
+### HW 3 - Salary Calculator
+
+[Salary Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Classes/hw3.java)
