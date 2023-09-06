@@ -130,7 +130,7 @@ In this unit, no conditional statements or loops have been utilized.
 
 [Prime Numbers Between 1 and 100](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw14.java)
 
-## HW 15 - Fibonacci Serie
+### HW 15 - Fibonacci Serie
 
 [Fibonacci Serie](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Loops/hw15.java)
 
