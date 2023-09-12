@@ -173,3 +173,33 @@ In this unit, no conditional statements or loops have been utilized.
 ### HW 3 - Salary Calculator
 
 [Salary Calculator](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Classes/hw3.java)
+
+## Arrays
+
+### HW 1 - Harmonic Sum and Mean of an Array
+
+[Harmonic Sum and Mean of an Array](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw1.java)
+
+### HW 2 - Closest Number Finder in an Array
+
+[Closest Number Finder of an Array](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw2.java)
+
+### HW 3 - B with Stars
+
+[B with Stars](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw3.java)
+
+### HW 4 - Duplicate Even Numbers Finder in an Array
+
+[Duplicate Even Numbers Finder in an Array](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw4.java)
+
+### HW 5 - Sorting an Array Smallest to Largest
+
+[Sorting an Array Smallest to Largest](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw5.java)
+
+### HW 6 - Number Counter of an Array
+
+[Number Counter of an Array](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw6.java)
+
+### 7 - Matrix Transposer
+
+[Matrix Transposer](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw7.java)
