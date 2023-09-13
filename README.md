@@ -206,9 +206,9 @@ In this unit, no conditional statements or loops have been utilized.
 
 ## Other Topics
 
-### 1 - Number Prediction Game
+### 1 - Guess the Number
 
-[Number Prediction Game](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Other/hw1.java)
+[Guess the Number](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Other/hw1.java)
 
 ### 2 - Palindromic Word Finder
 
