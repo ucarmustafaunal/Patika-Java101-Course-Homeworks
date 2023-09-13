@@ -203,3 +203,13 @@ In this unit, no conditional statements or loops have been utilized.
 ### 7 - Matrix Transposer
 
 [Matrix Transposer](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Arrays/hw7.java)
+
+## Other Topics
+
+### 1 - Number Prediction Game
+
+[Number Prediction Game](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Other/hw1.java)
+
+### 2 - Palindromic Word Finder
+
+[Palindromic Word Finder](https://github.com/ucarmustafaunal/Patika-Java101-Course-Homeworks/blob/main/src/Other/hw2.java)
